@@ -1,31 +1,30 @@
 body {
-	background-color:DeepSkyBlue;
-	margin:20px 20px 20px 20px;
+  background-color: DeepSkyBlue;
 }
-
 
 h1 {
-	font-family:Verdana, Helvetica, sans-serif;
-	text-align:center;
+
+  font-family: "Times New Roman"; serif;
+  text-align: center;
 }
-
-
-h2 {
-	font-family:Verdana, Helvetica, sans-serif;
-}
-
-
-h3 {
-	font-family:Verdana, Helvetica, sans-serif;
-}
-
 
 p {
-	font-family:Caslon, Times, serif;
-	font-size: 20px;
+ 
+  margin: 25px;
+  font-family: verdana; sans-serif;
+  font-size: 20px;
 }
 
 ul {
-	font-family:Caslon, Times, serif;
-	font-size: 20px;
+ 
+  margin: 25px;
+  font-family: verdana; sans-serif;
+  font-size: 20px;
+}
+
+ol {
+ 
+  margin: 25px;
+  font-family: verdana; sans-serif;
+  font-size: 20px;
 }
